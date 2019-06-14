@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/intech-react-frontend/static/css/main.2cce8147.chunk.css",
-    "main.js": "/intech-react-frontend/static/js/main.30b510aa.chunk.js",
-    "main.js.map": "/intech-react-frontend/static/js/main.30b510aa.chunk.js.map",
-    "runtime~main.js": "/intech-react-frontend/static/js/runtime~main.87ccff76.js",
-    "runtime~main.js.map": "/intech-react-frontend/static/js/runtime~main.87ccff76.js.map",
-    "static/js/2.b41502e9.chunk.js": "/intech-react-frontend/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/intech-react-frontend/static/js/2.b41502e9.chunk.js.map",
-    "index.html": "/intech-react-frontend/index.html",
-    "precache-manifest.84b2afc39a52db803df1a076758af154.js": "/intech-react-frontend/precache-manifest.84b2afc39a52db803df1a076758af154.js",
-    "service-worker.js": "/intech-react-frontend/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/intech-react-frontend/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/intech-react-frontend/static/media/logo.5d5d9eef.svg"
+    "main.css": "/RonSwansonReact/static/css/main.2cce8147.chunk.css",
+    "main.js": "/RonSwansonReact/static/js/main.d76b75c4.chunk.js",
+    "main.js.map": "/RonSwansonReact/static/js/main.d76b75c4.chunk.js.map",
+    "runtime~main.js": "/RonSwansonReact/static/js/runtime~main.5e723266.js",
+    "runtime~main.js.map": "/RonSwansonReact/static/js/runtime~main.5e723266.js.map",
+    "static/js/2.b41502e9.chunk.js": "/RonSwansonReact/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/RonSwansonReact/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/RonSwansonReact/index.html",
+    "precache-manifest.99478f5190f367b247a8b1d5a01cfea8.js": "/RonSwansonReact/precache-manifest.99478f5190f367b247a8b1d5a01cfea8.js",
+    "service-worker.js": "/RonSwansonReact/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/RonSwansonReact/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/RonSwansonReact/static/media/logo.5d5d9eef.svg"
   }
 }
